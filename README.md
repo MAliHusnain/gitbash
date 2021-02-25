@@ -1,0 +1,2 @@
+# gitbash
+Knowledge og github
